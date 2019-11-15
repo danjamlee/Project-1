@@ -1,6 +1,7 @@
 # Controversial YouTube Videos
 
 **Collaborators**
+
 Angel, Noah, Dan, Cree
 
 Core Message or Hypothesis
