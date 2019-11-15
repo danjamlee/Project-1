@@ -1,6 +1,7 @@
-# Project-1
-Shared repo for The Dream Team
-Team Members - Angel, Noah, Dan, Cree
+# Controversial YouTube Videos
+
+**Collaborators**
+Angel, Noah, Dan, Cree
 
 Core Message or Hypothesis
 Project Title - Analyzing Trending Videos on YouTube
